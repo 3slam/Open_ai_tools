@@ -25,7 +25,6 @@ class HomeFragment : BaseFragment<HomeFragmentBinding>() {
         collectLast(viewModel.effect ){ uiEffect(it) }
 
     }
-
     private fun uiEffect(effect: HomeUiEffect) {
       when(effect){
           HomeUiEffect.NavigateToChat -> findNavController().navigate(R.id.action_home_to_chat)

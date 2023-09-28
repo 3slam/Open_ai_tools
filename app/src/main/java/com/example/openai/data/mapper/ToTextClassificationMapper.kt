@@ -4,7 +4,8 @@ import android.util.Log
 import com.example.openai.data.response.textClassification.ModerationResponse
 import com.example.openai.domain.model.TextClassification
 
-object ToTextClassificationMapper : Mapper<ModerationResponse, List<TextClassification>> {
+object ToTextClassificationMapper :
+    Mapper<ModerationResponse, List<TextClassification>> {
     override fun map(input: ModerationResponse): List<TextClassification> {
         val categoryScores = input.results[0].categories
 
