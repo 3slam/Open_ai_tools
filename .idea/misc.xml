@@ -1,0 +1,38 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/drawable/button_background.xml" value="0.16" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/drawable/chat_item_for_gpt.xml" value="0.167" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/drawable/chat_item_user.xml" value="0.167" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/drawable/circle_bachground.xml" value="0.167" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/drawable/corner_rounded.xml" value="0.1715" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/activity_on_boarding.xml" value="0.2368659420289855" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/chat_fragment.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/fragment_blank.xml" value="0.11302083333333333" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/image_generation_fragment.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/item_chat_reciver.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/item_chat_sender.xml" value="0.25317028985507245" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/item_chat_typing.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/item_image_receiver.xml" value="0.253125" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/on_boarding_one_fragment.xml" value="0.2368659420289855" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/layout/on_boarding_two_fragment.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/OpenAI/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
